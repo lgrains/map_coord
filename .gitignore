@@ -1,0 +1,21 @@
+!.keep
+*.DS_Store
+*.swo
+*.swp
+.bundle
+.sass-cache/
+bin/stubs
+coverage/*
+db/*.sqlite3
+db/schema.rb
+log/*
+public/system
+public/assets
+rerun.txt
+tags
+tmp/*
+tmp/**/*
+/coverage
+
+# Ignore application configuration
+/config/application.yml
